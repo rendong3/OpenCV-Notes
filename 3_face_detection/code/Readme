@@ -1,0 +1,3 @@
+The code stores the program that calls the Haar classifier for face detection, 
+
+including detecting face detection in still images and videos.
