@@ -22,3 +22,6 @@ Welcome star!!!!!!
 
 二 图像分割 
 
+Grabcut算法  分水岭算法 
+
+![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/10.png)
