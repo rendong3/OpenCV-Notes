@@ -15,9 +15,6 @@ Welcome star!!!!!!
 模糊滤波  
 
 ![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/3.png)
-
-轮廓检测
-
 ![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png)
 
 轮廓检测
@@ -35,12 +32,10 @@ Welcome star!!!!!!
 二 图像分割 
 
 Grabcut算法   
-
 ![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/1.png)
 ![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/2.png)
 
 分水岭算法
-
 ![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/3.png)
 ![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/4.png)
 ![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/5.png)
