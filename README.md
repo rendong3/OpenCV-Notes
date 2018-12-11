@@ -7,3 +7,6 @@
 
 
 Welcome star!!!!!!
+
+
+![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/face_recognition/images/33.jpg)
