@@ -14,8 +14,8 @@ Welcome star!!!!!!
 
 模糊滤波  
 
-![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/3.png)
-![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png)
+![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/3.png=400x300)
+![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png=400x300)
 
 轮廓检测
 
