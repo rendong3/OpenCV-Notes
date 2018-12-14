@@ -32,5 +32,6 @@
 
 <img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/imges/1.jpg" width = "200" height = "200" alt="原图" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/5.png" width = "200" height = "200" alt="分水岭算法" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/3.png" width = "200" height = "200" alt="分水岭算法" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/4.png" width = "200" height = "200" alt="分水岭算法" />
 
+## 三 人脸检测
 
-
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/3_face_detection/images/face1.jpg" width = "400" height = "200" alt="分水岭算法" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/3_face_detection/output/1.png" width = "400" height = "200" alt="分水岭算法" />
