@@ -14,13 +14,13 @@
 
 #### 模糊滤波  
 
-![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/3.png =300x)
+![](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/3.png = 300x)
 
-![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png =300x)
+![](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png = 300x)
 
 #### 轮廓检测
 
-![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/7.png)
+![](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/7.png)
 
 #### 多边形 直线检测
 
