@@ -13,8 +13,7 @@
 图片读取 显示 保存 读取 
 
 #### 模糊滤波  
-<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png" width = "300" height = "400" alt="模糊滤波" />
-
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/Images/person.jpg" width = "300" height = "400" alt="原图" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/5.png" width = "300" height = "400" alt="模糊滤波" />
 
 #### 轮廓检测
 
@@ -25,7 +24,7 @@
 
 #### 圆检测
 
-<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/10.png" width = "500" height = "250" alt="圆检测" />
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/10.png" width = "500" height = "300" alt="圆检测" />
 
 ## 二 图像分割 
 
@@ -34,7 +33,7 @@
 
 #### 分水岭算法
 
-<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/5.png" width = "200" height = "200" alt="分水岭算法" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/3.png" width = "200" height = "200" alt="分水岭算法" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/4.png" width = "200" height = "200" alt="分水岭算法" />
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/imges/1.jpg" width = "200" height = "200" alt="原图" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/5.png" width = "200" height = "200" alt="分水岭算法" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/3.png" width = "200" height = "200" alt="分水岭算法" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/4.png" width = "200" height = "200" alt="分水岭算法" />
 
 
 
