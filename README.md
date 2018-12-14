@@ -29,7 +29,7 @@
 ## 二 图像分割 
 
 #### Grabcut算法  
-<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/2.png" width = "500" height = "250" alt="Grabcut算法" />
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/imges/ouc.jpg" width = "500" height = "250" alt="Grabcut算法" /><img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/2_Image%20segmentation/output/2.png" width = "500" height = "250" alt="Grabcut算法" />
 
 #### 分水岭算法
 
