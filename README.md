@@ -13,10 +13,9 @@
 图片读取 显示 保存 读取 
 
 #### 模糊滤波  
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png" width = "250" height = "300" alt="模糊滤波" />
 
-![](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/3.png = 300x)
 
-![](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png = 300x)
 
 #### 轮廓检测
 
