@@ -13,15 +13,15 @@
 图片读取 显示 保存 读取 
 
 #### 模糊滤波  
-<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png" width = "250" height = "500" alt="模糊滤波" />
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png" width = "300" height = "400" alt="模糊滤波" />
 
 
 #### 轮廓检测
 
-<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/7.png" width = "250" height = "500" alt="模糊滤波" />
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/7.png" width = "250" height = "250" alt="轮廓检测" />
 
 #### 多边形 直线检测
-<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/8.png" width = "250" height = "500" alt="模糊滤波" />
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/8.png" width = "500" height = "200" alt="多边形检测" />
 
 #### 圆检测
 
