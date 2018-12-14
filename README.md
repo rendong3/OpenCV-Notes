@@ -13,25 +13,23 @@
 图片读取 显示 保存 读取 
 
 #### 模糊滤波  
-<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png" width = "250" height = "300" alt="模糊滤波" />
-
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/6.png" width = "250" height = "500" alt="模糊滤波" />
 
 
 #### 轮廓检测
 
-![](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/7.png)
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/7.png" width = "250" height = "500" alt="模糊滤波" />
 
 #### 多边形 直线检测
-
-![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/8.png =300x100)
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/8.png" width = "250" height = "500" alt="模糊滤波" />
 
 #### 圆检测
 
-![image](https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/10.png =500x200)
+<img src="https://github.com/RenDong3/OpenCV_Notes/blob/master/1_Image%20processing/output_images/10.png" width = "500" height = "250" alt="圆检测" />
 
-二 图像分割 
+## 二 图像分割 
 
-Grabcut算法   分水岭算法
+#### Grabcut算法   分水岭算法
 
 
 
